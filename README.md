@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paligonshik
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Computer Vision and Natural Language Preprocessing 
-- 💞️ I’m looking to collaborate on CV and NLP tasks
+- :raising_hand: I’m looking to collaborate on CV and NLP tasks
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/vazgen-tadevosyan/)
 
 <!---
