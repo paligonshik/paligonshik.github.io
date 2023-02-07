@@ -1,4 +1,4 @@
-- Hi, I’m Vazgne
+- Hi, I’m Vazgnen
 - I’m interested in Data Science and Machine Learning
 - I’m currently learning Computer Vision and Natural Language Preprocessing at RIT
 - I’m looking to collaborate on CV and NLP tasks
