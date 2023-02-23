@@ -108,17 +108,7 @@ Interaction (ACII 2022). (Accepted and to appear)
 - **Refining Duplicate Contribution Detection in Pull-Based Projects:**. Implemented a duplicate contribution detection algorithm in pull- based projects by calculating cosine similarity of code changes, titles, and descriptions of pull requests. Optimized the algorithm using recall-rate method for efficient duplicate detection results
 
 - **Lyrics Analyzer and Song Adviser using Machine-Learning in Python:**.  Preprocessed 7000 songs text data using NLTK, TextBlob and used TF-IDF for feature extraction and Naive Bayes classifier implementation. Developed a song recommendation program using Selenium and sentiment analysis based on user's mood and preferred genre.
-
-<br /><br /> -->
-
-<!-- # Extended Abstracts without Proceedings
----
-- Cecilia O. Alm and Rajesh Titung. 2022. Engaging human interactions to learn emotions. EmoCHI’22.
 <br /><br />
-
-
-
-
 
 # Skills
 ---
