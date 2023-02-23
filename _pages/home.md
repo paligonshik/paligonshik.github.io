@@ -1,6 +1,11 @@
 # Background
 ---
-I am a second-year Computing and Information Sciences student at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning for multimodal affective computing.
+I am a second-year Data Science master's student  at Rochester Institute of Technology, honorary recipient of the Fulbright Foreign Student Scholarship Grant.
+
+My capstone porject is Just in Time Prediction of Unknown Classes is supervised by Professor [Abu Islam](https://www.rit.edu/sustainabilityinstitute/directory/asigis-abu-islam)  where my objective is to build N-way shot learning with Siemase Network to predict unkown classes not seen in training time. I work with Professor [Shanchieh Yang](https://www.rit.edu/directory/sjyeec-shanchieh-yang) on ploring the intersection of machine learning and cybersecurity, specifically addressing the issue of imbalanced data in intrusion detection systems and proposing solutions to improve their performance.
+Additionally, I am a member in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/) leaded by Professor [Cecillia O. Alm](https://www.rit.edu/directory/coagla-cecilia-alm).
+
+
 <br/><br/>
 
 # Research Interests
@@ -8,18 +13,18 @@ I am a second-year Computing and Information Sciences student at Rochester Insti
 My research interests include multimodal machine learning, interactive machine learning, affective computing, natural language/speech processing, federated learning, and Reinforcement Learning.
 <br /><br />
 
-# News
+<!-- # News
 ---
-- (11/2022): Poster accepted to [SIGCSE 2023](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters)
+- (09/2021): Started master's degree in Data Science at RIT [RIT](https://www.rit.edu/study/data-science-ms)
 - (08/2022): Accepted to the [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/attend/program/doctoral-consortium/)
 - (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://aclanthology.org/2022.hcinlp-1.6/) (at NAACL 2022)
 - (05/2022): Passed Research Potential Assessment (RPA)
 - (03/2022): Demo paper accepted at [EmoCHI'22](https://cis.unimelb.edu.au/hci/emotion-workshop)
-<br /><br />
+<br /><br /> -->
 
 # Education
 ---
-### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - in progress)</span>
+### **Master's in Data Science**<span style="float:right;">(2021 - in progress)</span>
 <em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 <!-- --- -->
