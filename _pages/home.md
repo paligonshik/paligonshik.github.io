@@ -29,7 +29,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 <!-- --- -->
 
-### **Master's degree in Industrial Engineering and Systems of Management**<span style="float:right;">(2017 - 2019)</span>
+### **Master's degree in Industrial Engineering and Systems of Management**<span style="float:right;">2017 - 2019</span>
 <em>American University of Armenia</em><span style="float:right;"><em>Yerevan, Armenia</em></span>
 
 <!-- --- -->
