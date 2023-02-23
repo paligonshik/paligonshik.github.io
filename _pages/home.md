@@ -30,12 +30,12 @@ My research interests include multimodal machine learning, interactive machine l
 <!-- --- -->
 
 ### **Master's degree in Industrial Engineering and Systems of Management**<span style="float:right;">(2017 - 2019)</span>
-<em>American University of Armenia</em><span style="float:right;"><em>Lalitpur, Nepal</em></span>
+<em>American University of Armenia</em><span style="float:right;"><em>Yerevan, Armenia</em></span>
 
 <!-- --- -->
 
 ### **Bachelor in Theory of Economics**<span style="float:right;">2010 - 2016</span>
-<em>Armenian State University of Economics</em><span style="float:right;"><em>Lalitpur, Nepal</em></span>
+<em>Armenian State University of Economics</em><span style="float:right;"><em>Yerevan, Armenia</em></span>
 
 <!-- --- -->
 
