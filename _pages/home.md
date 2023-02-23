@@ -24,7 +24,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Education
 ---
-### **Master's degree in Data Science**<span style="float:right;">(2021 - in progress)</span>
+### **Master's degree in Data Science**<span style="float:right;">2021 - in progress</span>
 <em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 <!-- --- -->
@@ -34,7 +34,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 <!-- --- -->
 
-### **Bachelor in Theory of Economics**<span style="float:right;">(2010 - 2016)</span>
+### **Bachelor in Theory of Economics**<span style="float:right;">2010 - 2016</span>
 <em>Armenian State University of Economics</em><span style="float:right;"><em>Lalitpur, Nepal</em></span>
 
 <!-- --- -->
@@ -44,14 +44,14 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Work Experience
 ---
-### **Research Assistant**<span style="float:right;">(Jan 2022 - Present)</span>
+### **Research Assistant**<span style="float:right;">Jan 2022 - Present</span>
 <em>Department of Computer Engineering, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 - Conducted research on machine learning in cybersecurity and examined the impact of imbalanced data on the performance of intrusion detection systems
 - Proposed solutions to address the imbalance problem including undersampling/oversampling using SMOTE
 - Used preprocessing techniques, including PCA, and applied clustering techniques, such as DBSCAN to merge minority classes
 
-### **Data Science Inter**<span style="float:right;">(May 2022 - Aug 2022)</span>
+### **Data Science Inter**<span style="float:right;">May 2022 - Aug 2022</span>
 <em>Plat.ai</em><span style="float:right;"><em>Los Angeles, CA, USA</em></span>
 
 - Recommending a set of attributes that would maximize the model’s accuracy with statistical analysis
@@ -59,21 +59,21 @@ My research interests include multimodal machine learning, interactive machine l
 - Developed Machine Learning deployment pipeline using Docker and REST API, thus automating the data preprocessing, data
 cleaning, and feature extraction and optimizing prediction in real time
 
-### **Machine Learning Engineer**<span style="float:right;">(Sep 2019 - Aug 2021)</span>
+### **Machine Learning Engineer**<span style="float:right;">Sep 2019 - Aug 2021</span>
 <em>BetConstruct</em><span style="float:right;"><em>Yerevan,Armenia</em></span>
 
 - Reduced traffic load by 30% by finding sessions with not-human like behavior applying Hierarchical clustering methods
 - Applied supervised tree-based models such as XGBoost and Random Forest to predict bots with an accuracy of 93%
 - Data Analysis of user sessions using Elasticsearch and Kibana, provided reports on user groups overloading the network traffic
 
-### **Teaching Associate of Programming for Data Science Courses**<span style="float:right;">(July 2019 - Jun 2020)</span>
+### **Teaching Associate of Programming for Data Science Courses**<span style="float:right;">July 2019 - Jun 2020</span>
 <em>American University of Armenia</em><span style="float:right;"><em>Yerevan, Armenia</em></span>
 
 - Created a set of code slides and problem sets as extracurricular materials for Programming for Data Science Course
 - Assisted students in building Shiny dashboards and optimizing codes for their course projects using Python and R
 - Led problem-solving sessions with classes of more than 30 students and organized additional office hours to discuss topics
 
-### **Data Science Intern**<span style="float:right;">(Feb 2019 - May 2020)</span>
+### **Data Science Intern**<span style="float:right;">Feb 2019 - May 2020</span>
 <em>Armenian National SDG Lab (United Nations)</em><span style="float:right;"><em>Yerevan, Armenia</em></span>
 
 - Extracted over 100,000 tourist reviews about Armenia using data extraction tools
