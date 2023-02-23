@@ -19,8 +19,8 @@ locale: "en-US"
 title: "Vazgen Tadevosyan"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Vazgen Titung"
-description: "Rajesh Titung personal website."
+name: "Vazgen Tadevosyan"
+description: "Vazgen Tadevosyan's personal website."
 url: https://paligonshik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "paligonshik/paligonshik.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,27 +92,27 @@ analytics:
 
 # Site Author
 author:
-  name: "Rajesh Titung"
-  avatar: "/assets/images/rajesh_pic.jpeg"
-  bio: "CS Ph.D. Student @ RIT"
+  name: "Vazgen Tadevosyan"
+  avatar: "/assets/images/vazgen_pic.jpeg"
+  bio: "DS MS Student @ RIT"
   location: "Rochester, NY, USA"
   # email            : dinesh (dot) daultani (at) gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rt7331@rit.edu"
+      url: "mailto: tadevosianvazgen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://rtitung95.github.io"
+      url: "https://paligonshik.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rajesh_titung"
+      url: "https://twitter.com/Paligonshik"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rtitung95"
+      url: "https://github.com/paligonshik"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/titung-rajesh95/"
+      url: "https://www.linkedin.com/in/vazgen-tadevosyan/"
 
 # # Site Footer
 # footer:
