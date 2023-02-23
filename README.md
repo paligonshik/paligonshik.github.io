@@ -1,10 +1,5 @@
-- Hi, I’m Vazgen
-- I’m interested in Data Science and Machine Learning
-- I’m currently learning Computer Vision and Natural Language Preprocessing at RIT
-- I’m looking to collaborate on CV and NLP tasks
-- How to reach me [Linkedin](https://www.linkedin.com/in/vazgen-tadevosyan/)
+# [Rajesh Titung Research Website](https://rtitung95.github.io/)
 
-<!---
-paligonshik/paligonshik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This site is forked from **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme which is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. 
+
+Preview: [here](https://rtitung95.github.io/)
